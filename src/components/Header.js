@@ -2,6 +2,7 @@ import React from 'react';
 import Styled from 'styled-components';
 
 import Image from './assets/pfp4.png';
+import ResumeFile from './assets/resume.pdf';
 
 const Container = Styled.header`
     width: auto;
@@ -112,7 +113,7 @@ export default class Header extends React.Component{
 
                 <Logo> </Logo>
 
-                <Resume>
+                <Resume onClick={()=>{window.open(ResumeFile,'_blank')}}>
                     Resume
                 </Resume>
 
