@@ -48,14 +48,10 @@ export default class Experience extends React.Component{
                 <ContentContainer> 
                     <ExperienceCard title="Research Intern"
                         position="Nanobiotec LLC 6/2019 - 9/2020"
-                        description="As a research intern at Nanobiotec LLC, I was responsible for culutring human cell and running samples
-                        through different assays and procedures. This experience allowed me to skills in PCR,
-                        Gel-electrophorese, Western Blot and other techniques. Moreover, I assisted in data collection and analysis
-                        and used different software for data processing"/>
+                        description="As a research intern at Nanobiotec LLC, I assisted in an array of lab procedures including PCR, Western Blot, Gel Electrophoresis, etc. In addition, I was responisbile for data collection and used Excel for data analusis and graph creation."/>
                     <ExperienceCard title="Camp Counselor"
                     position="Mountain Lakes Makerspace 6/2018 - 9/2021"
-                        description="As a camp counselor, I was reponsible for teaching middle school kids about programming in python and 3D design/3D printing
-                        using fusion360 and cura. In addition I assisted in camper's projects and helped them trouble shoot when they faced problems."/>
+                        description="As a camp counselor, I was responsible for teaching younger kids about python programming, 3D design, 3D printing, robotics, etc. In addition, I assisted campers when they faced tehcnical problems and helped the trobule shoot errors and bugs."/>
                 </ContentContainer>
             </Container>
         )

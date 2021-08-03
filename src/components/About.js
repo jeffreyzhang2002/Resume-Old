@@ -65,8 +65,8 @@ export default class About extends React.Component{
                 <Content>
                     C:\Users\Guest&#62; python <br/><br/>
                     Python 3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)] on win32 Type "help", "copyright", "credits" or "license" for more information.<br/><br/>
-                    <span>&#62;&#62;&#62;</span> <em>from users import jeffrey</em> <br/>
-                    <span>&#62;&#62;&#62;</span> <em>JeffreyZhang = jeffrey()</em> <br/>
+                    <span>&#62;&#62;&#62;</span> <em>from users import Jeffrey</em> <br/>
+                    <span>&#62;&#62;&#62;</span> <em>JeffreyZhang = Jeffrey()</em> <br/>
                     <span>&#62;&#62;&#62;</span> <em>print(JeffreyZhang.location)</em> <br/>
                     Atlanta Georgia USA <br/> <br/>
                     <span>&#62;&#62;&#62;</span> <em>print(JeffreyZhang.education)</em> <br/>
@@ -76,8 +76,8 @@ export default class About extends React.Component{
                     <span>&#62;&#62;&#62;</span> <em>print(JeffreyZhang.contacts)</em> <br/>
                     {"{'Email': "}
                     <a href="mailto:Jeffreyzhang2002@gmail.com" target="_blank">JeffreyZhang2002@gmail.com</a>", 'Github': "
-                    <a href="https://github.com/jeffreyzhang2002" target="_blank"> jeffreyzhang2002 </a>", 'linkedin': "
-                    <a href="https://www.linkedin.com/in/jeffreyzhang21/" target="_blank"> jeffreyzhang21 </a>" {"}"} <br/><br/>
+                    <a href="https://github.com/jeffreyzhang2002" target="_blank"> JeffreyZhang2002 </a>", 'Linkedin': "
+                    <a href="https://www.linkedin.com/in/jeffreyzhang21/" target="_blank"> JeffreyZhang21 </a>" {"}"} <br/><br/>
                     <span>&#62;&#62;&#62;</span> <em>print("Thank you for visiting my website!")</em> <br/>
                     Thank you for visiting my website! <br/> <br/>
 

@@ -120,7 +120,7 @@ export default class Header extends React.Component{
                 <Content>
                     <p id="intro"> /* Hello World! My name is */ </p>
                     <p id="title"> Jeffrey Zhang </p>
-                    <p id="description"> "I'm a computer science student studying @ Georgia Tech. Im interested 
+                    <p id="description"> "I'm a computer science student studying @ Georgia Tech. I'm interested 
                     in software engineering, robotics and machine learning. Click below to learn more!"</p>
                 </Content>
 

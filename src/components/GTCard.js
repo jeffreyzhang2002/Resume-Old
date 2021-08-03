@@ -68,19 +68,20 @@ export default class GTCard extends React.Component{
                 <ContentContainer>
                     <ImageBox></ImageBox>
                     <Content>
-                        I current an undergradute student majoring in computer Science and minoring in robotics. I have already finish 33 credit hours
+                        I currently an undergradute student majoring in computer Science and minoring in robotics. I have already finish 33 credit hours
                         and have since taken classes in 
                         <abbr title="CS1331"> Object Oriented Programming</abbr>,
                         <abbr title="CS1301"> Java</abbr>,
                         <abbr title="Math1552/1553"> Calculus</abbr>, etc. 
                         Currently I working towards finishing my 
-                        <abbr title="CS1332"> data structures and algorithm class</abbr>.
+                        <abbr title="CS1332"> data structures and algorithm class</abbr>. I plan on pursing the intelligence
+                        and devices threads at Georgia Tech. 
                         <br/>
                         <br/>
                         GPA: N/A
                         <br/>
                         <br/>
-                        Expected Graduation Data: 5/2024  
+                        Expected Graduation Data: May 2024  
                     </Content>
                 </ContentContainer>
             </Container>

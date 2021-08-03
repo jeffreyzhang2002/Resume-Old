@@ -61,7 +61,7 @@ export default class MLCard extends React.Component{
                 <ContentContainer>
                     <ImageBox></ImageBox>
                     <Content>
-                        At Mountain Lakes Highschool, I took courses in AP Physics C, AP Calculus BC, AP Statistics, AP Computer Science A, etc.
+                        At Mountain Lakes Highschool, I took AP Physics C, AP Calculus BC, AP Statistics, AP Computer Science A, etc.
                         Moreover, I was the captain of the robotics team.
                         <br/>
                         <br/>
