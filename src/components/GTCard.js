@@ -68,8 +68,7 @@ export default class GTCard extends React.Component{
                 <ContentContainer>
                     <ImageBox></ImageBox>
                     <Content>
-                        I currently an undergradute student majoring in computer Science and minoring in robotics. I have already finish 33 credit hours
-                        and have since taken classes in 
+                        I am currently an undergradute student majoring in computer Science and minoring in robotics. I have taken classes in 
                         <abbr title="CS1331"> Object Oriented Programming</abbr>,
                         <abbr title="CS1301"> Java</abbr>,
                         <abbr title="Math1552/1553"> Calculus</abbr>, etc. 
